@@ -1,0 +1,40 @@
+﻿  MovementGraph.cpp
+D:\GIT Project\RTS Game\src\Entities\MovementGraph.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  BoxSelector.cpp
+d:\git project\rts game\src\game\BoxSelector.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  DebugOverlay.cpp
+d:\git project\rts game\src\game\DebugOverlay.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  FrameTimer.cpp
+D:\GIT Project\RTS Game\src\Game\FrameTimer.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Game.cpp
+D:\GIT Project\RTS Game\src\Entities\Entity.h(5): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Entity.cpp
+d:\git project\rts game\src\entities\Entity.h(5): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  MathLibrary.cpp
+D:\GIT Project\RTS Game\src\Game\MathLibrary.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Timer.cpp
+  EntityManagerLocator.cpp
+  FrameTimerLocator.cpp
+  main.cpp
+D:\GIT Project\RTS Game\src\Entities\Entity.h(5): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  EntityManager.cpp
+D:\GIT Project\RTS Game\src\Entities\Entity.h(5): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemManager.cpp
+D:\GIT Project\RTS Game\src\Systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemAIMovement.cpp
+D:\GIT Project\RTS Game\src\Systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemBase.cpp
+d:\git project\rts game\src\systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemCollidable.cpp
+D:\GIT Project\RTS Game\src\Systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemDrawable.cpp
+D:\GIT Project\RTS Game\src\Systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemMovable.cpp
+D:\GIT Project\RTS Game\src\Systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemPosition.cpp
+D:\GIT Project\RTS Game\src\Systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SystemSelectable.cpp
+D:\GIT Project\RTS Game\src\Systems\SystemBase.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Compiling...
+  Window.cpp
+d:\git project\rts game\src\Window.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory

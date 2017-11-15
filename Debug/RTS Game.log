@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\git project\rts game\src\main.cpp(22): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
